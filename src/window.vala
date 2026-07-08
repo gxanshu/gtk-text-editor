@@ -23,6 +23,9 @@ public class TextEditor.Window : Adw.ApplicationWindow {
     [GtkChild]
     private unowned Gtk.TextView main_text_view;
 
+    [GtkChild]
+    private unowned Gtk.Button open_button;
+
     public Window (Gtk.Application app) {
         Object (application: app);
     }
