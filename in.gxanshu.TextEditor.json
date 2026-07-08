@@ -38,7 +38,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "file:///home/anshu/Projects/text-editor"
+                    "url" : "file:///home/anshu/Projects/text-editor",
+                    "branch" : "main"
                 }
             ]
         }
