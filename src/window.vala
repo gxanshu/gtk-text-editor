@@ -21,7 +21,7 @@
 [GtkTemplate (ui = "/in/gxanshu/TextEditor/window.ui")]
 public class TextEditor.Window : Adw.ApplicationWindow {
     [GtkChild]
-    private unowned Gtk.Label label;
+    private unowned Gtk.TextView main_text_view;
 
     public Window (Gtk.Application app) {
         Object (application: app);
