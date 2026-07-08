@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Text-editor
+Exec=text-editor
+Icon=in.gxanshu.TextEditor
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

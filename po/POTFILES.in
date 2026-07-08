@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/in.gxanshu.TextEditor.desktop.in
+data/in.gxanshu.TextEditor.metainfo.xml.in
+data/in.gxanshu.TextEditor.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
